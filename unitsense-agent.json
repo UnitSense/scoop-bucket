@@ -11,5 +11,5 @@
     },
     "homepage": "https://unitsense.ai",
     "license": "MIT",
-    "description": "UnitSense Agent — tracks AI coding tool usage and syncs metrics to UnitSense"
+    "description": "UnitSense Agent — tracks AI coding tool usage and syncs metrics to UnitSense. NOTE: this Scoop bucket is not kept current automatically -- prefer `irm https://app.unitsense.ai/install-agent.ps1 | iex`, which always installs the real latest release."
 }
