@@ -1,15 +1,15 @@
 {
-    "version": "0.7.4",
+    "version": "0.7.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/UnitSense/agent/releases/download/v0.7.4/unitsense-agent_0.7.4_windows_amd64.zip",
+            "url": "https://github.com/UnitSense/agent/releases/download/v0.7.5/unitsense-agent_0.7.5_windows_amd64.zip",
             "bin": [
                 "unitsense-agent.exe"
             ],
-            "hash": "e8fd24bee04154966a1bb0c469b06a5f19d8bd3929ff36b8a1c4c7e6896505aa"
+            "hash": "77f72ae9f373329a416bc4d0297111ba2295e581cb4818b7861186a25ac9ddee"
         }
     },
     "homepage": "https://unitsense.ai",
     "license": "MIT",
-    "description": "UnitSense Agent — tracks AI coding tool usage and syncs metrics to UnitSense. NOTE: this Scoop bucket is not kept current automatically -- prefer `irm https://app.unitsense.ai/install-agent.ps1 | iex`, which always installs the real latest release."
+    "description": "UnitSense Agent — tracks AI coding tool usage and syncs metrics to UnitSense"
 }
