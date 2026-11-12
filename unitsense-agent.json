@@ -1,12 +1,12 @@
 {
-    "version": "0.10.0",
+    "version": "0.11.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/UnitSense/agent/releases/download/v0.10.0/unitsense-agent_0.10.0_windows_amd64.zip",
+            "url": "https://github.com/UnitSense/agent/releases/download/v0.11.0/unitsense-agent_0.11.0_windows_amd64.zip",
             "bin": [
                 "unitsense-agent.exe"
             ],
-            "hash": "c31797c2f518b129639a6f9d11f08e9572b2d5711f81b889bd6f93790c411702"
+            "hash": "7f794e88d4ab5818d79f1f4d0d76e039588efbc3c4d0bda03e09fcc839894f48"
         }
     },
     "homepage": "https://unitsense.ai",
